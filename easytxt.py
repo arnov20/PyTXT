@@ -8,7 +8,6 @@ from PyQt5 import uic
 
 
 def resource_path(filename):
-    """Encontra arquivos do PyTXT no Python e no EXE."""
 
     if getattr(sys, "frozen", False):
         base_dir = os.path.dirname(sys.executable)

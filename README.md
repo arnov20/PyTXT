@@ -21,4 +21,4 @@ At PyTXT ou can:
 
 - Change font size
 
-..And that's pretty much it! Please tell me what I can improve so better versions are created, this is only the first version
+..and that's pretty much it! Please tell me what I can improve so better versions are created, this is only the first version
